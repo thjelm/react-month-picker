@@ -28,7 +28,7 @@
     ]
   },
   "dependencies": {
-    "react-tapper": "thjelm/react-tapper"
+    "react-tapper": "https://github.com/thjelm/react-tapper.git"
   },
   "peerDependencies": {
     "react": "^0.14.0",
